@@ -17,7 +17,7 @@ function HomePage() {
   return (
     <div>
       <Helmet>
-        <title>{headerData.name} - Porfolio</title>
+        <title>{headerData.name}</title>
       </Helmet>
 
       <Navbar />
