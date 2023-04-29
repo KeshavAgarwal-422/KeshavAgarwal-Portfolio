@@ -4,13 +4,13 @@ export const skillsData = [
   "Javascript",
   "CSS",
   "React",
-  "Docker",
+
   "Next JS",
-  // 'Node JS',
+  "Node JS",
   "Bootstrap",
-  "Typescript",
+
   "Figma",
-  // 'Ubuntu',
+
   "MongoDB",
   "Tailwind",
   "MySQL",
